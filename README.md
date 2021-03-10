@@ -3,7 +3,8 @@
 [![Alex's github stats](https://github-readme-stats.vercel.app/api?username=AlexMunoz905&count_private=true&show_icons=true&theme=dracula)](https://github.com/AlexMunoz905)
 <div align="center">
   
-[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/AlexMunoz905/Python-Cisco-Backup) I'm also Cisco DevNet published!
+[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/AlexMunoz905/Python-Cisco-Backup)
+<sup>I'm DevNet Published!</sup>
   
 ![Visitor Count](https://profile-counter.glitch.me/alexmunoz905/count.svg)
 
